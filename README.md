@@ -1,4 +1,4 @@
-# Firebase Studio
+# Bus Booking
 
 This is a NextJS starter in Firebase Studio.
 
